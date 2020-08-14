@@ -6,6 +6,15 @@
 ### Bachelore of computer application - July 2014.
 #### B.C.A Sabargam college, Surat, Gujarat, India.
 
+# Experience
+| Company | Position | Time Served | Location |
+| ------------ |---------------| -----| ---- |
+| https://www.webmigrates.com/ | PHP Developer | 01 Dec 2016 - 28 Feb 2017 | Surat, Gujarat, India |
+| https://webclinicalworks.com/ | PHP Developer| 01 Mar 2017 - 28 July 2018 | Surat, Gujarat, India |
+| https://www.instinctmedia.in/ | PHP Developer | 01 Aug 2018 - 28 Aug 2019 | Mumbai, Maharashtra, India |
+| https://moofth.com/ | Full Stack Engineer | 15 Sep 2019 - 15 Oct 2019 | Bengaluru, Karnataka, India |
+| https://www.linkedin.com/company/tnk-investment-consultant-sole/ | Full Stack Engineer | 26 Nov 2019 - Present | Vientiane, Laos |
+
 # Technical Skills
 | Skill Type      | Skill List |
 | --------- | -----:|
