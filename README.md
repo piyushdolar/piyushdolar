@@ -4,8 +4,7 @@
 
 # Education
 ### Bachelore of computer application - July 2014.
-B.C.A Sabargam college
-Surat, Gujarat, India
+B.C.A Sabargam college, Surat, Gujarat, India
 
 # Experience
 | Company | Position | Time Served | Location |
