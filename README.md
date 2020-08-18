@@ -112,3 +112,8 @@ B.C.A Sabargam college, Surat, Gujarat, India
 -   https://github.com/piyushdolar
 -   https://www.facebook.com/piyushdolarofficial
 -   https://www.youtube.com/c/MrPDx
+
+<details>
+  <summary>:zap: Github Stats</summary>
+  [![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyushdolar)](https://github.com/piyushdolar/github-readme-stats)
+</details>
