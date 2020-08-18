@@ -1,15 +1,15 @@
-# Introduction
+### Introduction
 
-## I'm a Developer!
+#### I'm a Developer!
 
 -   🔭 I’m currently working at [TNK Consultant & Investment](https://www.linkedin.com/in/tnk-laos-737416189/)!
 -   🌱 I’m currently learning everything 🤣
 -   👯 I’m looking to collaborate with other content creators
 -   ⚡ Fun fact: I love to play games on console.
 
-# Education
+### Education
 
-### Bachelor Of Computer Application - July 2014.
+#### Bachelor Of Computer Application - July 2014.
 
 B.C.A Sabargam college, Surat, Gujarat, India
 
@@ -25,12 +25,13 @@ B.C.A Sabargam college, Surat, Gujarat, India
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](webdevplaylist)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://avatars3.githubusercontent.com/u/958072?s=200&v=4" />](laravel)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://avatars0.githubusercontent.com/u/993323?s=200&v=4" />](yiisoft)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://avatars0.githubusercontent.com/u/44521256?s=200&v=4" />](codeigniter4)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](webdevplaylist)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](cssplaylist)
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](cssplaylist)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](jsplaylist)
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](reactplaylist)
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />](webdevplaylist)
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />](webdevplaylist)
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](webdevplaylist)
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />](webdevplaylist)
@@ -44,7 +45,7 @@ B.C.A Sabargam college, Surat, Gujarat, India
 <br />
 <br />
 
-# Experience
+### Experience
 
 | Company                                                          | Position            | Time Served                | Location                    |
 | ---------------------------------------------------------------- | ------------------- | -------------------------- | --------------------------- |
@@ -54,7 +55,7 @@ B.C.A Sabargam college, Surat, Gujarat, India
 | https://moofth.com/                                              | Full Stack Engineer | 15 Sep 2019 - 15 Oct 2019  | Bengaluru, Karnataka, India |
 | https://www.linkedin.com/company/tnk-investment-consultant-sole/ | Full Stack Engineer | 26 Nov 2019 - Present      | Vientiane, Laos             |
 
-# Technical Skills
+### Technical Skills
 
 | Skill Type          |                                                                                                      Skill List |
 | ------------------- | --------------------------------------------------------------------------------------------------------------: |
@@ -66,7 +67,7 @@ B.C.A Sabargam college, Surat, Gujarat, India
 | Framework           |                                                                                       Yii, CodeIgniter, Laravel |
 | Other Works         |                                   Web Services, Facebook API, Google+ API, Twitter API, Instagram API, GraphAPI |
 
-# Key Skills
+### Key Skills
 
 -   Hands-on experience in Coding, Testing, Implementation/Maintenance Support in
     PHP, and MySQL.
@@ -81,14 +82,14 @@ B.C.A Sabargam college, Surat, Gujarat, India
 -   Web server installation & configuration: Apache, NGINX, Microsoft IIS.
 -   Design for SEO (Search Engine Optimization).
 
-# Projects
+### Projects
 
 -   https://meritchatroom.com/
 -   https://www.lcpi.la/
 -   https://www.aawaz.com/
 -   http://a1pcrepairs.co.uk/
 
-# Extra-Curricular Activities
+### Extra-Curricular Activities
 
 -   Served as Member in the core committee of College’s fresher batch Orientation event
     for 2014 & 2015 batch
@@ -96,7 +97,7 @@ B.C.A Sabargam college, Surat, Gujarat, India
 -   Participation in various software competitions.
 -   Successfully Manage Events in College.
 
-# Interpersonal Skills
+### Interpersonal Skills
 
 -   Development of reusable code.
 -   Understand the business and functional requirements.
@@ -105,7 +106,7 @@ B.C.A Sabargam college, Surat, Gujarat, India
 -   Quick learner and eager to learn new technologies.
 -   Experienced with GitHub, Jira, Docker, REST/SOAP web Services.
 
-# References
+### References
 
 -   https://www.linkedin.com/in/piyushdolar
 -   https://github.com/piyushdolar
