@@ -114,7 +114,6 @@ B.C.A Sabargam college, Surat, Gujarat, India
 -   https://www.youtube.com/c/MrPDx
 
 <details>
-  <summary>:zap: Github Stats</summary>  
-    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+  <summary>:zap: Github Stats</summary>     
 
 </details>
