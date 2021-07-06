@@ -49,7 +49,7 @@ B.C.A Sabargam college, Surat, Gujarat, India
 
 | Company                                                          | Position            | Time Served                | Location                    |
 | ---------------------------------------------------------------- | ------------------- | -------------------------- | --------------------------- |
-| https://www.linkedin.com/company/tnk-investment-consultant-sole/ | Full Stack Developer | 26 Nov 2019 - Present      | Vientiane, Laos             |
+| https://www.linkedin.com/company/tnk-investment-consultant-sole/ OR http://techtnk.com/ | Full Stack Developer | 26 Nov 2019 - Present      | Vientiane, Laos             |
 | https://moofth.com/                                              | Full Stack Developer | 15 Sep 2019 - 15 Oct 2019  | Bengaluru, Karnataka, India |
 | https://www.instinctmedia.in/                                    | PHP Developer       | 01 Aug 2018 - 28 Aug 2019  | Mumbai, Maharashtra, India  |
 | https://webclinicalworks.com/                                    | PHP Developer       | 01 Mar 2017 - 28 July 2018 | Surat, Gujarat, India       |
