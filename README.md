@@ -61,7 +61,7 @@ B.C.A Sabargam college, Surat, Gujarat, India
 | Skill Type          |                                                                                                      Skill List |
 | ------------------- | --------------------------------------------------------------------------------------------------------------: |
 | Languages           |             PHP,MySQL, JavaScript, Ajax, JQuery, HTML5, CSS3, Bootstrap, AngularJS(Basic), XML, Vue.js, Nuxt.js |
-| Software Known      | Notepad++, Sublime text 3, Dream Viewer, Photoshop, Lightroom, Illustrator, VSCode, After effect, Sony Vegas 15 |
+| Software Known      | Notepad++, Sublime text 3, Dream Viewer, Photoshop, Lightroom, Illustrator, VSCode |
 | Web Server & Client |                    Wamp, Xampp, and Web Hosting at Google Cloud, AWS, Huawei. Clients used as FileZilla, WinSCP |
 | OS                  |                                                                          Windows(7,8,10) & Ubuntu(18.04,20.04)) |
 | CMS                 |                                                                                                       WordPress |
