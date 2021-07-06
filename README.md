@@ -47,26 +47,25 @@ B.C.A Sabargam college, Surat, Gujarat, India
 
 ### Experience
 
-| Company                                                          | Position            | Time Served                | Location                    |
-| ---------------------------------------------------------------- | ------------------- | -------------------------- | --------------------------- |
+| Company                                                                                 | Position             | Time Served                | Location                    |
+| --------------------------------------------------------------------------------------- | -------------------- | -------------------------- | --------------------------- |
 | https://www.linkedin.com/company/tnk-investment-consultant-sole/ OR http://techtnk.com/ | Full Stack Developer | 26 Nov 2019 - Present      | Vientiane, Laos             |
-| https://moofth.com/                                              | Full Stack Developer | 15 Sep 2019 - 15 Oct 2019  | Bengaluru, Karnataka, India |
-| https://www.instinctmedia.in/                                    | PHP Developer       | 01 Aug 2018 - 28 Aug 2019  | Mumbai, Maharashtra, India  |
-| https://webclinicalworks.com/                                    | PHP Developer       | 01 Mar 2017 - 28 July 2018 | Surat, Gujarat, India       |
-| https://www.webmigrates.com/                                     | PHP Developer       | 01 Dec 2016 - 28 Feb 2017  | Surat, Gujarat, India       |
-
+| https://moofth.com/                                                                     | Full Stack Developer | 15 Sep 2019 - 15 Oct 2019  | Bengaluru, Karnataka, India |
+| https://www.instinctmedia.in/                                                           | PHP Developer        | 01 Aug 2018 - 28 Aug 2019  | Mumbai, Maharashtra, India  |
+| https://webclinicalworks.com/                                                           | PHP Developer        | 01 Mar 2017 - 28 July 2018 | Surat, Gujarat, India       |
+| https://www.webmigrates.com/                                                            | PHP Developer        | 01 Dec 2016 - 28 Feb 2017  | Surat, Gujarat, India       |
 
 ### Technical Skills
 
-| Skill Type          |                                                                                                      Skill List |
-| ------------------- | --------------------------------------------------------------------------------------------------------------: |
-| Languages           |             PHP,MySQL, JavaScript, Ajax, JQuery, HTML5, CSS3, Bootstrap, AngularJS(Basic), XML, Vue.js, Nuxt.js |
-| Software Known      | Notepad++, Sublime text 3, Dream Viewer, Photoshop, Lightroom, Illustrator, VSCode |
-| Web Server & Client |                    Wamp, Xampp, and Web Hosting at Google Cloud, AWS, Huawei. Clients used as FileZilla, WinSCP |
-| OS                  |                                                                          Windows(7,8,10) & Ubuntu(18.04,20.04)) |
-| CMS                 |                                                                                                       WordPress |
-| Framework           |                                                                                       Yii, CodeIgniter, Laravel |
-| Other Works         |                                   Web Services, Facebook API, Google+ API, Twitter API, Instagram API, GraphAPI |
+| Skill Type          |                                                                                          Skill List |
+| ------------------- | --------------------------------------------------------------------------------------------------: |
+| Languages           | PHP,MySQL, JavaScript, Ajax, JQuery, HTML5, CSS3, Bootstrap, AngularJS(Basic), XML, Vue.js, Nuxt.js |
+| Software Known      |                  Notepad++, Sublime text 3, Dream Viewer, Photoshop, Lightroom, Illustrator, VSCode |
+| Web Server & Client |        Wamp, Xampp, and Web Hosting at Google Cloud, AWS, Huawei. Clients used as FileZilla, WinSCP |
+| OS                  |                                                              Windows(7,8,10) & Ubuntu(18.04,20.04)) |
+| CMS                 |                                                                                           WordPress |
+| Framework           |                                                                           Yii, CodeIgniter, Laravel |
+| Other Works         |                       Web Services, Facebook API, Google+ API, Twitter API, Instagram API, GraphAPI |
 
 ### Key Skills
 
@@ -116,16 +115,10 @@ B.C.A Sabargam college, Surat, Gujarat, India
 -   https://www.facebook.com/piyushdolarofficial
 -   https://www.youtube.com/c/MrPDx
 
-<details>
-  <summary>:zap: Top Languages</summary>
+### :zap: Top Languages
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushdolar)](https://github.com/piyushdolar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushdolar)](https://github.com/piyushdolar/github-readme-stats)
 
-</details>
+### :zap: Github Stats
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyushdolar&show_icons=true&theme=radical)
-
-</details>
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyushdolar&show_icons=true&theme=radical)
