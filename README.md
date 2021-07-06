@@ -5,15 +5,15 @@
 -   🔭 I’m currently working at [TNK Consultant & Investment](https://www.linkedin.com/in/tnk-laos-737416189/)!
 -   🌱 I’m currently learning everything 🤣
 -   👯 I’m looking to collaborate with other content creators
--   ⚡ Fun fact: I love to play games on console.
+-   ⚡ Fun fact: I love to play PC games.
 
-### Education
+### :zap: Education
 
 #### Bachelor Of Computer Application - July 2014.
 
 B.C.A Sabargam college, Surat, Gujarat, India
 
-### Connect with me:
+### :zap: Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/c/MrPDx)
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/piyush_dolar)
@@ -22,7 +22,7 @@ B.C.A Sabargam college, Surat, Gujarat, India
 
 </br>
 
-### Languages and Tools:
+### :zap: Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](webdevplaylist)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://avatars3.githubusercontent.com/u/958072?s=200&v=4" />](laravel)
@@ -45,7 +45,7 @@ B.C.A Sabargam college, Surat, Gujarat, India
 <br />
 <br />
 
-### Experience
+### :zap: Experience
 
 | Company                                                                                 | Position             | Time Served                | Location                    |
 | --------------------------------------------------------------------------------------- | -------------------- | -------------------------- | --------------------------- |
@@ -55,7 +55,7 @@ B.C.A Sabargam college, Surat, Gujarat, India
 | https://webclinicalworks.com/                                                           | PHP Developer        | 01 Mar 2017 - 28 July 2018 | Surat, Gujarat, India       |
 | https://www.webmigrates.com/                                                            | PHP Developer        | 01 Dec 2016 - 28 Feb 2017  | Surat, Gujarat, India       |
 
-### Technical Skills
+### :zap: Technical Skills
 
 | Skill Type          |                                                                                          Skill List |
 | ------------------- | --------------------------------------------------------------------------------------------------: |
@@ -67,7 +67,7 @@ B.C.A Sabargam college, Surat, Gujarat, India
 | Framework           |                                                                           Yii, CodeIgniter, Laravel |
 | Other Works         |                       Web Services, Facebook API, Google+ API, Twitter API, Instagram API, GraphAPI |
 
-### Key Skills
+### :zap: Key Skills
 
 -   Hands-on experience in Coding, Testing, Implementation/Maintenance Support in
     PHP, and MySQL.
@@ -82,7 +82,7 @@ B.C.A Sabargam college, Surat, Gujarat, India
 -   Web server installation & configuration: Apache, NGINX, Microsoft IIS.
 -   Design for SEO (Search Engine Optimization).
 
-### Projects
+### :zap: Projects
 
 -   https://meritchatroom.com/
 -   https://www.lcpi.la/
@@ -91,7 +91,7 @@ B.C.A Sabargam college, Surat, Gujarat, India
 -   http://yiwangu.com/
 -   http://www.equitycapitalgaming.com/
 
-### Extra-Curricular Activities
+### :zap: Extra-Curricular Activities
 
 -   Served as Member in the core committee of College’s fresher batch Orientation event
     for 2014 & 2015 batch
@@ -99,7 +99,7 @@ B.C.A Sabargam college, Surat, Gujarat, India
 -   Participation in various software competitions.
 -   Successfully Manage Events in College.
 
-### Interpersonal Skills
+### :zap: Interpersonal Skills
 
 -   Development of reusable code.
 -   Understand the business and functional requirements.
@@ -108,7 +108,7 @@ B.C.A Sabargam college, Surat, Gujarat, India
 -   Quick learner and eager to learn new technologies.
 -   Experienced with GitHub, Jira, Docker, REST/SOAP web Services.
 
-### References
+### :zap: References
 
 -   https://www.linkedin.com/in/piyushdolar
 -   https://github.com/piyushdolar
