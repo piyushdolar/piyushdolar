@@ -90,6 +90,15 @@ B.C.A Sabargam college, Surat, Gujarat, India
 -   http://a1pcrepairs.co.uk/
 -   http://yiwangu.com/
 -   http://www.equitycapitalgaming.com/
+-   http://landing.skvbox.com/
+-   http://rich369.vip/
+-   http://skv.agency
+-   http://pay.skv.marketing
+-   http://survey.skv.marketing
+-   http://loga.skvbox.com
+-   http://b91gf.com
+-   http://switchbox.marketing
+-   http://999.money
 
 ### :zap: Extra-Curricular Activities
 
