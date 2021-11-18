@@ -99,6 +99,9 @@ B.C.A Sabargam college, Surat, Gujarat, India
 -   http://b91gf.com
 -   http://switchbox.marketing
 -   http://999.money
+-   https://b91gf.com
+-   https://switchbox.marketing
+-   https://rich369.vip
 
 ### :zap: Extra-Curricular Activities
 
