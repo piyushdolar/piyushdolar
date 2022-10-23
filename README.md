@@ -1,20 +1,16 @@
-### Introduction
+### :zap: Introduction
 
 #### I'm a Developer!
-
--   🔭 I’m currently working at [TNK Consultant & Investment](https://www.linkedin.com/in/tnk-laos-737416189/)!
--   🌱 I’m currently learning everything 🤣
+-   🔭 I’m currently working at [Computer Science Lab](https://techcsl.com)!
+-   🌱 I’m currently learning everything :heart:
 -   👯 I’m looking to collaborate with other content creators
 -   ⚡ Fun fact: I love to play PC games.
 
 ### :zap: Education
-
-#### Bachelor Of Computer Application - July 2014.
-
-B.C.A Sabargam college, Surat, Gujarat, India
+#### Bachelor Of Computer Application - July 2014
+VNSGU University, Surat, Gujarat, India
 
 ### :zap: Connect with me:
-
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/c/MrPDx)
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/piyush_dolar)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/piyushdolar/)
@@ -23,7 +19,6 @@ B.C.A Sabargam college, Surat, Gujarat, India
 </br>
 
 ### :zap: Languages and Tools:
-
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](webdevplaylist)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://avatars3.githubusercontent.com/u/958072?s=200&v=4" />](laravel)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://avatars0.githubusercontent.com/u/993323?s=200&v=4" />](yiisoft)
@@ -46,17 +41,16 @@ B.C.A Sabargam college, Surat, Gujarat, India
 <br />
 
 ### :zap: Experience
-
-| Company                                                                                 | Position             | Time Served                | Location                    |
-| --------------------------------------------------------------------------------------- | -------------------- | -------------------------- | --------------------------- |
-| https://www.linkedin.com/company/tnk-investment-consultant-sole/ OR http://techtnk.com/ | Full Stack Developer | 26 Nov 2019 - Present      | Vientiane, Laos             |
-| https://moofth.com/                                                                     | Full Stack Developer | 15 Sep 2019 - 15 Oct 2019  | Bengaluru, Karnataka, India |
-| https://www.instinctmedia.in/                                                           | PHP Developer        | 01 Aug 2018 - 28 Aug 2019  | Mumbai, Maharashtra, India  |
-| https://webclinicalworks.com/                                                           | PHP Developer        | 01 Mar 2017 - 28 July 2018 | Surat, Gujarat, India       |
-| https://www.webmigrates.com/                                                            | PHP Developer        | 01 Dec 2016 - 28 Feb 2017  | Surat, Gujarat, India       |
+| Company | Position | Time Served | Location  |
+| ------- | -------- | ----------- | --------- |
+| https://www.techcsl.com  | Full Stack & DevOps | 01 March 2022 - Present | Vientiane, Laos  |
+| https://www.linkedin.com/company/tnk-investment-consultant-sole  | Full Stack Developer | 26 Nov 2019 - 28 Feb 2022 | Vientiane, Laos  |
+| https://moofth.com/ | Full Stack Developer | 15 Sep 2019 - 15 Oct 2019  | Bengaluru, Karnataka, India |
+| https://www.instinctmedia.in/ | PHP Developer | 01 Aug 2018 - 28 Aug 2019  | Mumbai, Maharashtra, India |
+| https://webclinicalworks.com/ | PHP Developer | 01 Mar 2017 - 28 July 2018 | Surat, Gujarat, India |
+| https://www.webmigrates.com/ | PHP Developer | 01 Dec 2016 - 28 Feb 2017  | Surat, Gujarat, India |
 
 ### :zap: Technical Skills
-
 | Skill Type          |                                                                                          Skill List |
 | ------------------- | --------------------------------------------------------------------------------------------------: |
 | Languages           | PHP,MySQL, JavaScript, Ajax, JQuery, HTML5, CSS3, Bootstrap, AngularJS(Basic), XML, Vue.js, Nuxt.js |
@@ -68,7 +62,6 @@ B.C.A Sabargam college, Surat, Gujarat, India
 | Other Works         |                       Web Services, Facebook API, Google+ API, Twitter API, Instagram API, GraphAPI |
 
 ### :zap: Key Skills
-
 -   Hands-on experience in Coding, Testing, Implementation/Maintenance Support in
     PHP, and MySQL.
 -   Extensive development of jQuery, JavaScript.
@@ -83,7 +76,6 @@ B.C.A Sabargam college, Surat, Gujarat, India
 -   Design for SEO (Search Engine Optimization).
 
 ### :zap: Projects
-
 -   https://meritchatroom.com
 -   https://logc.la
 -   https://aawaz.com
@@ -91,7 +83,6 @@ B.C.A Sabargam college, Surat, Gujarat, India
 -   https://rich369.vip
 
 ### :zap: Extra-Curricular Activities
-
 -   Served as Member in the core committee of College’s fresher batch Orientation event
     for 2014 & 2015 batch
 -   Served as Chief Coordinator of multiple LAN game in college event – 2014
@@ -99,7 +90,6 @@ B.C.A Sabargam college, Surat, Gujarat, India
 -   Successfully Manage Events in College.
 
 ### :zap: Interpersonal Skills
-
 -   Development of reusable code.
 -   Understand the business and functional requirements.
 -   Handled the CMS (Front End programming).
@@ -108,15 +98,12 @@ B.C.A Sabargam college, Surat, Gujarat, India
 -   Experienced with GitHub, Jira, Docker, REST/SOAP web Services.
 
 ### :zap: References
-
 -   https://www.linkedin.com/in/piyushdolar
 -   https://www.facebook.com/piyushdolarofficial
 -   https://www.youtube.com/c/MrPDx
 
 ### :zap: Top Languages
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushdolar)](https://github.com/piyushdolar/github-readme-stats)
 
 ### :zap: Github Stats
-
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyushdolar&show_icons=true&theme=radical)
