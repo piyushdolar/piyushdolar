@@ -52,7 +52,7 @@ VNSGU University, Surat, Gujarat, India
 
 ### :zap: Technical Skills
 | Skill Type          |                                                                                          Skill List |
-| ------------------- | --------------------------------------------------------------------------------------------------: |
+| :------------------- | --------------------------------------------------------------------------------------------------: |
 | Languages           | PHP,MySQL, JavaScript, Ajax, JQuery, HTML5, CSS3, Bootstrap, AngularJS(Basic), XML, Vue.js, Nuxt.js |
 | Software Known      |                  Notepad++, Sublime text 3, Dream Viewer, Photoshop, Lightroom, Illustrator, VSCode |
 | Web Server & Client |        Wamp, Xampp, and Web Hosting at Google Cloud, AWS, Huawei. Clients used as FileZilla, WinSCP |
@@ -60,6 +60,7 @@ VNSGU University, Surat, Gujarat, India
 | CMS                 |                                                                                           WordPress |
 | Framework           |                                                                           Yii, CodeIgniter, Laravel |
 | Other Works         |                       Web Services, Facebook API, Google+ API, Twitter API, Instagram API, GraphAPI |
+| Cloud Platform | GCP, Huawei |
 
 ### :zap: Key Skills
 -   Hands-on experience in Coding, Testing, Implementation/Maintenance Support in
