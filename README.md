@@ -84,23 +84,10 @@ B.C.A Sabargam college, Surat, Gujarat, India
 
 ### :zap: Projects
 
--   https://meritchatroom.com/
--   https://www.lcpi.la/
--   https://www.aawaz.com/
--   http://a1pcrepairs.co.uk/
--   http://yiwangu.com/
--   http://www.equitycapitalgaming.com/
--   http://landing.skvbox.com/
--   http://rich369.vip/
--   http://skv.agency
--   http://pay.skv.marketing
--   http://survey.skv.marketing
--   http://loga.skvbox.com
--   http://b91gf.com
--   http://switchbox.marketing
--   http://999.money
--   https://b91gf.com
--   https://switchbox.marketing
+-   https://meritchatroom.com
+-   https://logc.la
+-   https://aawaz.com
+-   http://a1pcrepairs.co.uk
 -   https://rich369.vip
 
 ### :zap: Extra-Curricular Activities
