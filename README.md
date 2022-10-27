@@ -7,7 +7,7 @@
 -   ⚡ Fun fact: I love to play PC games.
 
 ### :zap: Education
-#### Bachelor Of Computer Application - July 2014
+#### Bachelor Of Computer Application - Feb 2017
 VNSGU University, Surat, Gujarat, India
 
 ### :zap: Connect with me:
