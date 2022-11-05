@@ -1,6 +1,6 @@
-### :zap: Introduction
+## :information_desk_person: Introduction
 
-#### I'm a Developer!
+#### :zap: I'm a Developer!
 
 -   🔭 I’m currently working at [Computer Science Lab](https://techcsl.com)!
 -   🌱 I’m currently learning everything :heart:
@@ -146,9 +146,6 @@
 ### :zap: Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushdolar)](https://github.com/piyushdolar/github-readme-stats)
-
-
----
 
 
 ### :zap: Github Stats
