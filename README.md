@@ -151,3 +151,8 @@
 ### :zap: Github Stats
 
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyushdolar&show_icons=true&theme=radical)
+
+
+### :zap: Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=piyushdolar&theme=dark&background=000000)](https://git.io/streak-stats)
