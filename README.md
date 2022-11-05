@@ -17,23 +17,23 @@ VNSGU University, Surat, Gujarat, India
 ### :zap: Connect with me:
 [<img align="left" alt="YouTube" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px" />](https://www.youtube.com/c/MrPDx)
 [<img align="left" alt="Twitter" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30px" />](https://twitter.com/piyush_dolar)
-[<img align="left" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="30px" />](https://www.linkedin.com/in/piyushdolar/)
-[<img align="left" alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30px" />](https://www.linkedin.com/in/dolarpiyush/)
+[<img align="left" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="30px" />](https://www.linkedin.com/in/piyushdolar)
+[<img align="left" alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="30px" />](https://www.instagram.com/dolarpiyush)
 
 <br />
 
 ---
 
 ### :zap: Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](webdevplaylist)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://avatars3.githubusercontent.com/u/958072?s=200&v=4" />](laravel)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://avatars0.githubusercontent.com/u/993323?s=200&v=4" />](yiisoft)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://avatars0.githubusercontent.com/u/44521256?s=200&v=4" />](codeigniter4)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](webdevplaylist)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](cssplaylist)
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](cssplaylist)
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](jsplaylist)
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />](webdevplaylist)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://avatars3.githubusercontent.com/u/958072?s=200&v=4" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://avatars0.githubusercontent.com/u/993323?s=200&v=4" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://avatars0.githubusercontent.com/u/44521256?s=200&v=4" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](webdevplaylist)
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />](webdevplaylist)
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](webdevplaylist)
