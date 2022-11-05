@@ -6,17 +6,23 @@
 -   👯 I’m looking to collaborate with other content creators
 -   ⚡ Fun fact: I love to play PC games.
 
+---
+
 ### :zap: Education
 #### Bachelor Of Computer Application - Feb 2017
 VNSGU University, Surat, Gujarat, India
 
-### :zap: Connect with me:
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/c/MrPDx)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/piyush_dolar)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/piyushdolar/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.linkedin.com/in/dolarpiyush/)
+---
 
-</br>
+### :zap: Connect with me:
+[<img align="left" alt="YouTube" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px" />](https://www.youtube.com/c/MrPDx)
+[<img align="left" alt="Twitter" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30px" />](https://twitter.com/piyush_dolar)
+[<img align="left" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="30px" />](https://www.linkedin.com/in/piyushdolar/)
+[<img align="left" alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30px" />](https://www.linkedin.com/in/dolarpiyush/)
+
+<br />
+
+---
 
 ### :zap: Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](webdevplaylist)
