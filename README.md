@@ -44,6 +44,10 @@ VNSGU University, Surat, Gujarat, India
 <img align="left" alt="MySQL" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://img.icons8.com/color/512/mongodb.png" />
 
+<br/>
+
+---
+
 ### :zap: Experience
 
 | Company                                                         | Position             | Time Served                | Location                    |
@@ -55,18 +59,24 @@ VNSGU University, Surat, Gujarat, India
 | https://webclinicalworks.com/                                   | PHP Developer        | 01 Mar 2017 - 28 July 2018 | Surat, Gujarat, India       |
 | https://www.webmigrates.com/                                    | PHP Developer        | 01 Dec 2016 - 28 Feb 2017  | Surat, Gujarat, India       |
 
+
+---
+
+
 ### :zap: Technical Skills
 
 | Skill Type          |                                                                                          Skill List |
 | :------------------ | --------------------------------------------------------------------------------------------------: |
-| Languages           | PHP,MySQL, JavaScript, Ajax, JQuery, HTML5, CSS3, Bootstrap, AngularJS(Basic), XML, Vue.js, Nuxt.js |
+| Languages           |                                              PHP, MySQL, JavaScript, Ajax, JQuery, HTML5, CSS3, XML |
 | Software Known      |                  Notepad++, Sublime text 3, Dream Viewer, Photoshop, Lightroom, Illustrator, VSCode |
-| Web Server & Client |        Wamp, Xampp, and Web Hosting at Google Cloud, AWS, Huawei. Clients used as FileZilla, WinSCP |
-| OS                  |                                                              Windows(7,8,10) & Ubuntu(18.04,20.04)) |
-| CMS                 |                                                                                           WordPress |
-| Framework           |                                                                           Yii, CodeIgniter, Laravel |
-| Other Works         |                       Web Services, Facebook API, Google+ API, Twitter API, Instagram API, GraphAPI |
-| Cloud Platform      |                                                                                         GCP, Huawei |
+| Web Server & Client |                                                    Xampp, Mamp, GCP, AWS, Huawei, FileZilla, WinSCP |
+| OS                  |                                                                            Windows, Mac, and Ubuntu |
+| Framework           |                  Yii, CodeIgniter, Laravel, Vue.js, Nuxt.js, Bootstrap, AngularJS(Basic), WordPress |
+| Other Works         |   Web Services, Facebook API, Google+ API, Twitter API, Instagram API, GraphAPI, Kubernetes, Docker |
+
+
+---
+
 
 ### :zap: Key Skills
 
@@ -83,6 +93,10 @@ VNSGU University, Surat, Gujarat, India
 -   Web server installation & configuration: Apache, NGINX, Microsoft IIS.
 -   Design for SEO (Search Engine Optimization).
 
+
+---
+
+
 ### :zap: Projects
 
 -   https://meritchatroom.com
@@ -91,6 +105,10 @@ VNSGU University, Surat, Gujarat, India
 -   http://a1pcrepairs.co.uk
 -   https://rich369.vip
 
+
+---
+
+
 ### :zap: Extra-Curricular Activities
 
 -   Served as Member in the core committee of College’s fresher batch Orientation event
@@ -98,6 +116,10 @@ VNSGU University, Surat, Gujarat, India
 -   Served as Chief Coordinator of multiple LAN game in college event – 2014
 -   Participation in various software competitions.
 -   Successfully Manage Events in College.
+
+
+---
+
 
 ### :zap: Interpersonal Skills
 
@@ -108,15 +130,27 @@ VNSGU University, Surat, Gujarat, India
 -   Quick learner and eager to learn new technologies.
 -   Experienced with GitHub, Jira, Docker, REST/SOAP web Services.
 
+
+---
+
+
 ### :zap: References
 
 -   https://www.linkedin.com/in/piyushdolar
 -   https://www.facebook.com/piyushdolarofficial
 -   https://www.youtube.com/c/MrPDx
 
+
+---
+
+
 ### :zap: Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushdolar)](https://github.com/piyushdolar/github-readme-stats)
+
+
+---
+
 
 ### :zap: Github Stats
 
