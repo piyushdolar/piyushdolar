@@ -11,9 +11,8 @@
 
 ### :zap: Education
 
-#### Bachelor Of Computer Application - Feb 2017
-
-VNSGU University, Surat, Gujarat, India
+- Bachelor Of Computer Application - Feb 2017
+- VNSGU University, Surat, Gujarat, India
 
 ---
 
