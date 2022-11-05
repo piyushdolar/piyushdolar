@@ -29,6 +29,10 @@
 
 ### :zap: Languages and Tools:
 
+
+<img align="left" alt="GCP" width="30px" src="https://img.icons8.com/color/512/google-cloud.png" />
+<img align="left" alt="AWS" width="30px" src="https://img.icons8.com/color/512/amazon-web-services.png" />
+<img align="left" alt="Kubernetes" width="30px" src="https://img.icons8.com/color/512/kubernetes.png" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Laravel" width="30px" src="https://avatars3.githubusercontent.com/u/958072?s=200&v=4" />
 <img align="left" alt="Yii" width="30px" src="https://avatars0.githubusercontent.com/u/993323?s=200&v=4" />
