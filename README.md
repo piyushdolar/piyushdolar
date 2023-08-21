@@ -106,7 +106,8 @@
 -   https://logc.la
 -   https://aawaz.com
 -   http://a1pcrepairs.co.uk
--   https://rich369.vip
+
+More detail can be found on my resume :)
 
 
 ---
