@@ -149,7 +149,7 @@ More detail can be found on my resume :)
 
 ---
 
-
+<!---
 ### :zap: Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushdolar)](https://github.com/piyushdolar/github-readme-stats)
@@ -159,7 +159,7 @@ More detail can be found on my resume :)
 
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyushdolar&show_icons=true&theme=radical)
 
-
+--->
 ### :zap: My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=piyushdolar&theme=dark&background=000000)](https://git.io/streak-stats)
