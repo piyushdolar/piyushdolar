@@ -106,6 +106,8 @@
 -   https://logc.la
 -   https://aawaz.com
 -   http://a1pcrepairs.com
+-   https://pgbooking.net
+-   https://ufa-tl.com
 
 More detail can be found on my resume :)
 
