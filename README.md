@@ -108,7 +108,7 @@
 -   http://a1pcrepairs.com
 -   https://pgbooking.net
 -   https://ufa-tl.com
--   http://agentlaos.com/
+-   http://agentlaos.com
 
 More detail can be found on my resume :)
 
