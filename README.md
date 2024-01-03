@@ -109,8 +109,9 @@
 -   https://pgbooking.net
 -   https://ufa-tl.com
 -   http://agentlaos.com
+-   https://github.com/piyushdolar/timeo
 
-More detail can be found on my resume :)
+More details can be found on my resume :)
 
 
 ---
