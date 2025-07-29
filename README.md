@@ -2,7 +2,7 @@
 
 #### :zap: I'm a Developer!
 
--   🔭 I’m currently working at [Computer Science Lab](https://techcsl.com)!
+-   🔭 I’m currently looking for opportunity!
 -   🌱 I’m currently learning everything :heart:
 -   👯 I’m looking to collaborate with other content creators
 -   ⚡ Fun fact: I love to play PC games.
@@ -55,12 +55,12 @@
 
 | Company                                                         | Position             | Time Served                | Location                    |
 | --------------------------------------------------------------- | -------------------- | -------------------------- | --------------------------- |
-| https://www.techcsl.com                                         | Full Stack & DevOps  | 01 March 2022 - Present    | Vientiane, Laos             |
+| https://www.techcsl.com                                         | Full Stack & DevOps  | 01 March 2022 - July 2025    | Vientiane, Laos             |
 | https://www.linkedin.com/company/tnk-investment-consultant-sole | Full Stack Developer | 26 Nov 2019 - 28 Feb 2022  | Vientiane, Laos             |
 | Freelancing/Remote                                                     | Full Stack Developer | 15 June 2019 - 15 Oct 2019  | Bengaluru, Karnataka, India |
-| https://www.instinctmedia.in/                                   | PHP Developer        | 01 Oct 2018 - 28 May 2019  | Mumbai, Maharashtra, India  |
-| https://webclinicalworks.com/                                   | PHP Developer        | 01 Mar 2017 - 28 July 2018 | Surat, Gujarat, India       |
-| https://www.webmigrates.com/                                    | PHP Developer        | 01 Dec 2016 - 28 Feb 2017  | Surat, Gujarat, India       |
+| https://www.instinctmedia.in/                                   | Full Stack Developer        | 01 Oct 2018 - 28 May 2019  | Mumbai, Maharashtra, India  |
+| https://webclinicalworks.com/                                   | Web Developer        | 01 Mar 2017 - 28 July 2018 | Surat, Gujarat, India       |
+| https://www.webmigrates.com/                                    | Internship Trainee        | 01 Dec 2016 - 28 Feb 2017  | Surat, Gujarat, India       |
 
 
 ---
