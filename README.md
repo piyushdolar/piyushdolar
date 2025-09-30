@@ -1,12 +1,13 @@
 ## :information_desk_person: Introduction
 
-#### :zap: I'm a Developer!
+#### 💼 About Me
 
--   🔭 I’m currently looking for opportunity!
--   🌱 I’m currently learning everything :heart:
--   👯 I’m looking to collaborate with other content creators
--   ⚡ Fun fact: I love to play PC games.
-
+- 7+ years of experience in Full Stack Development, Frontend Leadership, and DevOps.
+- Skilled in React.js, Vue.js, Nuxt.js, Node.js, PHP (Laravel, CodeIgniter), and cloud platforms.
+- Experienced in leading teams, deploying high-concurrency apps, and delivering end-to-end solutions.
+- Built market-leading Whitelabel platforms, gaming back offices, and government SaaS systems.
+- Passionate about AI/LLMs, cloud technologies, DevOps practices, and mentoring developers.
+  
 ---
 
 ### :zap: Education
@@ -51,20 +52,6 @@
 
 ---
 
-### :zap: Experience
-
-| Company                                                         | Position             | Time Served                | Location                    |
-| --------------------------------------------------------------- | -------------------- | -------------------------- | --------------------------- |
-| [Computer Science Lab](https://www.techcsl.com)                                         | Team Lead  | 01 March 2022 - July 2025    | Vientiane, Laos             |
-| [TNK Investment Consultant Sole](https://www.linkedin.com/company/tnk-investment-consultant-sole) | Full Stack Developer | 26 Nov 2019 - 28 Feb 2022  | Vientiane, Laos             |
-| [Moofthwell Pvt Ltd](https://www.linkedin.com/company/moofth)                    | Full Stack Developer | 15 June 2019 - 15 Oct 2019  | Bengaluru, Karnataka, India |
-| [Instict Media](https://www.instinctmedia.in)                                   | Full Stack Developer        | 01 Oct 2018 - 28 May 2019  | Mumbai, Maharashtra, India  |
-| [Web Clinical Works](#)                                   | Web Developer        | 01 Mar 2017 - 28 July 2018 | Surat, Gujarat, India       |
-| [Web Migrates](https://www.webmigrates.com)                                    | Internship Trainee        | 01 Dec 2016 - 28 Feb 2017  | Surat, Gujarat, India       |
-
-
----
-
 
 ### :zap: Technical Skills
 
@@ -77,6 +64,13 @@
 | Framework           |                  Yii, CodeIgniter, Laravel, Vue.js, Nuxt.js, Bootstrap, AngularJS(Basic), WordPress |
 | Other Works         |   Web Services, Facebook API, Google+ API, Twitter API, Instagram API, GraphAPI, Kubernetes, Docker |
 
+### 🛠 Tech Stack
+
+- Frontend: React.js, Vue.js, Nuxt.js, React Native, Tailwind, Vuetify
+- Backend: Node.js, PHP (Laravel, Symfony, CodeIgniter), Express, REST APIs, Microservices
+- Cloud & DevOps: Kubernetes, Docker, AWS, GCP, CI/CD automation
+- Databases: MySQL, PostgreSQL, MongoDB, GraphQL
+- AI/LLM: Ollama, LLaMA 2, DeepSeek, Phi
 
 ---
 
@@ -100,45 +94,13 @@
 ---
 
 
-### :zap: Projects
+#### 🌟 Projects
 
--   https://meritchatroom.com
--   https://logc.la
--   https://aawaz.com
--   http://a1pcrepairs.com
--   https://pgbooking.net
--   https://ufa-tl.com
--   http://agentlaos.com
--   https://github.com/piyushdolar/timeo
--   https://ollama.piyushdolar.com
-
-More details can be found on my resume :)
-
-
----
-
-
-### :zap: Extra-Curricular Activities
-
--   Served as Member in the core committee of College’s fresher batch Orientation event
-    for 2014 & 2015 batch
--   Served as Chief Coordinator of multiple LAN game in college event – 2014
--   Participation in various software competitions.
--   Successfully Manage Events in College.
-
-
----
-
-
-### :zap: Interpersonal Skills
-
--   Development of reusable code.
--   Understand the business and functional requirements.
--   Handled the CMS (Front End programming).
--   Iterative testing and code reviews through the development of the application.
--   Quick learner and eager to learn new technologies.
--   Experienced with GitHub, Jira, Docker, REST/SOAP web Services.
-
+- AI Chat App (Self-Hosted): Nuxt 3 interface for self-hosted LLMs with model switching & streaming prompts.
+- Whitelabel Gaming Platform: Node.js + Vue.js platform with crypto/local wallet support, admin dashboards, and analytics.
+- Agent Laos – Real Estate: Multilingual property portal with map-based search, chat, and booking features.
+- LCM – Laos Cyber Management: Government admin panel to manage casino licenses, employees, and compliance documents.
+- LCPI – Vehicle Insurance Web App: Node.js APIs + Vue.js frontend to streamline claims, reducing field work by hours.
 
 ---
 
